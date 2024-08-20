@@ -22,8 +22,7 @@
 .wheelContainer{
     display:flex;
     justify-content:center;
-    align-items:center;
-    padding:20px;
+    align-items:center; 
     background: url('./assets/images/background.jpg');
     height: 100vh;
     overflow: hidden;
@@ -73,9 +72,7 @@
     width: 500px;
     height: 500px; 
 }
-
-
-
+ 
 .mainbox:after {
     position: absolute;
     content: "";
